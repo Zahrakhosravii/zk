@@ -1,0 +1,172 @@
+.body{
+    padding: 5% 5%;
+}
+.background-image{
+    background-image: url('./img/bg.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 3% 15%;
+    position: relative;
+}
+.navbar-brand{
+    font-family: "ubuntu";
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 30px;
+}
+.title{
+    text-align: center;
+    padding-top:400px;
+    padding-bottom: 20px;
+    font-size: 70px;
+    color: aliceblue;
+    font-family: "ubuntu"
+}
+.pragragh{
+    text-align: center;
+    color: aliceblue;
+    font-family: "ubuntu"
+}
+.info{
+    text-align: center;
+    bottom: 20px;
+    padding-bottom: 20px;
+    color: aliceblue;
+    font-family: "ubuntu"
+}
+.row{
+    padding: 0.5% ;
+}
+
+.history{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: rgb(21, 21, 22);
+    font-family: "ubuntu"
+}
+.pragragh-2{
+    color: rgb(13, 16, 19);
+    left: 30px;
+    right: 30px;
+    text-align: center;
+    font-family: "ubuntu" 
+}
+.map{
+    background-image: url('./img/sea.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    min-height: 500px;
+    position: relative;
+    font-family: "ubuntu";
+    /* padding: 5% 5%; */
+
+}
+.div-1{
+    padding: 5% 5%; 
+    direction:center;
+}
+ .div-2{
+    background-color: white;
+    padding: 5% 5%;
+
+}
+.pragragh-3{
+    color: rgb(13, 16, 19);
+    text-align: center;
+    font-family: "ubuntu" 
+}
+.milad{
+    background-image: url('./img/milad-tower.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    min-height: 500px;
+    position: relative;
+    font-family: "ubuntu";
+    margin-top: 40px;
+}
+.contact{
+    text-align: center;
+    height: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: rgb(8, 9, 10);
+    font-family: "ubuntu";
+
+}
+.hr{
+    color: rgb(0, 0, 0);
+}
+.h-5{
+    text-align: center;
+}
+.h-6{
+    right: 20px;
+}
+.more-button{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.a-1{
+    text-align: center;
+  
+}
+.a-2{
+    text-align: center;
+    color: rgb(112, 112, 112);
+}
+.photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.poet{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+/* .div-4{
+    margin-top: 40px;
+    background-color: rgb(255, 255, 255); */
+/* } */
+.mountain{
+    background-image: url('./img/mountain.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    min-height: 500px;
+    position: relative;
+    font-family: "ubuntu";
+    padding: 3% 15%;
+
+}
+.pol{
+    background-image: url('./img/pol.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    min-height: 500px;
+    position: relative;
+    font-family: "ubuntu";
+    padding: 3% 15%;
+
+}
+.div3{
+    background-color: rgb(161, 165, 124);
+    margin-top: 50px;
+}
+.nav{
+    position: fixed;
+}

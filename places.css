@@ -1,0 +1,82 @@
+.body{
+    padding: 5% 5%;
+    background-color: rgb(163, 163, 163);
+}
+.north{
+    background-image: url('./img/shomal.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    min-height: 500px;
+    position: relative;
+    font-family: "ubuntu";
+}
+.navbar-brand{
+    font-family: "ubuntu";
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 30px;
+}
+
+.title{
+    text-align: center;
+    padding-top:400px;
+    padding-bottom: 20px;
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+    font-family: "ubuntu";
+}
+.pragragh{
+    text-align: center;
+    color: aliceblue;
+    font-family: "ubuntu";
+}
+.row{
+    padding: 5% ;
+}
+.div-2{
+    background-color: white;
+
+}
+.a-1{
+    text-align: center;
+  
+}
+.a-2{
+    text-align: center;
+    color: rgb(112, 112, 112);
+}
+.photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.center{
+    background-image: url('./img/desert.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    min-height: 500px;
+    position: relative;
+    font-family: "ubuntu";
+
+}
+.south{
+    background-image: url('./img/south1.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    min-height: 500px;
+    position: relative;
+    font-family: "ubuntu";
+
+}
+.nav{
+    position:fixed;
+}
+
